@@ -34,15 +34,14 @@ p {
 hr {
   border-style: none;
   border-top-style: dotted;
-  height: 0px;
+  height: 0;
   border-color: white;
   border-width: 10px;
-  width: 30%;
+  width: 5%;
 }
 
 a {
   font-family: 'Luckiest Guy', cursive;
-
 }
 
 .bottom-container a {
@@ -73,9 +72,9 @@ a {
 }
 
 .worry {
-font-size: 1.5rem;
-width: 30%;
-margin: auto;
+  font-size: 1.5rem;
+  width: 30%;
+  margin: auto;
 }
 
 .skills a {
@@ -105,8 +104,6 @@ margin: auto;
 .bottom-container {
   margin: 0;
 }
-
-
 
 .bottom-cloud {
   position: absolute;
@@ -211,10 +208,6 @@ margin: auto;
 .contact-me a:hover, a:active {
   background-color: #191414;
   color: #008891;
-}
-
-.botton-container {
-  text-align: center;
 }
 
 .botao-spotify {
